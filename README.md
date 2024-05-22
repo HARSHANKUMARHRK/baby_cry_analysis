@@ -1,6 +1,4 @@
-Sure, here is a more detailed project description for your README file:
 
----
 
 # Baby Cry Analysis using CNN and Deep Spectral Neural Networks
 
